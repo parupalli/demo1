@@ -1,7 +1,5 @@
 this is my first git file
 this is second line
-sdjfhskdf
-sdfh
 sdfsidfys
 sdjkfhsdfgp
 end
